@@ -9,7 +9,7 @@ body {
     "footer footer";
     grid-template-rows: 1fr 40px;
     grid-template-columns: 450px 1fr;
-    color: #837E9F
+    color: #837E9F;
 }
 
 main {
@@ -49,6 +49,11 @@ aside ul {
 
 .profile img {
     border-radius: 50%;
+    transition: 0.3s;
+}
+
+.profile img:hover{
+    transform: scale(1.1);
 }
 
 .module-border-wrap {
@@ -73,6 +78,11 @@ aside ul {
 
 .info li p {
     padding-left: 20px;
+}
+
+.info a {
+    text-decoration: none;
+    color: #837E9F;
 }
 
 .tecnologias .tech {
