@@ -75,3 +75,17 @@ aside ul {
     padding-left: 20px;
 }
 
+.tecnologias .tech {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0;
+}
+
+.tecnologias .tech li {
+    background-color: #ba588e;
+    color: black;
+    margin: 10px;
+    padding: 8px;
+    border-radius: 20px;
+    text-align: center;
+}
