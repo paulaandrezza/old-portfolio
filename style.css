@@ -36,9 +36,14 @@ aside ul {
     height: auto;
     margin: 20px;
     border-radius: 1rem;
-    border-radius: 5%;
     box-shadow: 5px 5px #1C1C1C;
     padding: 32px;
+}
+
+.box:hover {
+    transition: 0.3s;
+    transform: scale(1.03);
+    opacity: 0.7;
 }
 
 .profile {
@@ -98,4 +103,10 @@ aside ul {
     padding: 8px;
     border-radius: 20px;
     text-align: center;
+}
+
+.tecnologias .tech li:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+    opacity: 1.1;
 }
