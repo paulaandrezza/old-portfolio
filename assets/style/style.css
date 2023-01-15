@@ -201,3 +201,9 @@ ul {
 .box.teste:hover {
     transform: rotateY(180deg);
 }
+
+@media screen and (max-width: 1200px) {
+    .projects {
+        grid-template-columns: 1fr;
+    }
+}
