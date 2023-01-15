@@ -8,18 +8,6 @@ const cursosInfo = [
         descricao: "",
     },
     { 
-        curso: 'Mecatrônica | Técnico', 
-        local: "IFSP Campus Bragança Paulista",
-        estado: "Concluído 2019 | 1200h",
-        descricao: "",
-    },
-    { 
-        curso: 'Trilha Discover', 
-        local: "RocketSeat",
-        estado: "Concluído | 2h",
-        descricao: "Primeiros conhecimentos sobre programação e tecnologia. Desde a diferenciação entre hardware e software, internet e seu papel no desenvolvimento, até o pensamento computacional e lógico, passando por tipos de aplicações web e linguagem de programação. Clareza sobre as bases da programação para web e aprender palavras e conceitos desse novo universo.",
-    },
-    { 
         curso: 'Trilha Fundamentar', 
         local: "RocketSeat",
         estado: "Concluído | 27h",
@@ -31,7 +19,18 @@ const cursosInfo = [
         estado: "Concluído | 78h",
         descricao: "Projeto para aprender do zero desenvolvimento front-end e back-end. O primeiro bootcamp do programa é uma trilha gratuita lançada pelo Inter, em parceria com a DIO, que vai abordar desde o princípio as tecnologias JavaScript, HTML, CSS, Typescript e React. ",
     },
-
+    { 
+        curso: 'Trilha Discover', 
+        local: "RocketSeat",
+        estado: "Concluído | 2h",
+        descricao: "Primeiros conhecimentos sobre programação e tecnologia. Desde a diferenciação entre hardware e software, internet e seu papel no desenvolvimento, até o pensamento computacional e lógico, passando por tipos de aplicações web e linguagem de programação. Clareza sobre as bases da programação para web e aprender palavras e conceitos desse novo universo.",
+    },
+    { 
+        curso: 'Mecatrônica | Técnico', 
+        local: "IFSP Campus Bragança Paulista",
+        estado: "Concluído 2019 | 1200h",
+        descricao: "",
+    },
 ];
 
 function convertArrayToUl(curso) {
