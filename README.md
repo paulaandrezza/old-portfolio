@@ -34,4 +34,4 @@ O projeto foi baseado no layout disponibilizado pela RocketSeat, você pode visu
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Paula Marinho
