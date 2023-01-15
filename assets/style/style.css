@@ -42,6 +42,10 @@ ul {
     padding: 0;
 }
 
+.color-gray {
+    color: #837E9F;
+}
+
 .box {
     background-color: #302F3D;
     height: auto;
@@ -100,29 +104,32 @@ ul {
     color: #837E9F;
 }
 
-.tecnologias .tech {
+.tech {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     padding: 0;
 }
 
-.tecnologias .tech li {
-    background-color: #ba588e;
-    color: black;
+.tech li {
+    background-color: #563d7c;
+    color: #837E9F;
     margin: 10px;
     padding: 8px;
     border-radius: 20px;
     text-align: center;
 }
 
-.tecnologias .tech li:hover {
+.tech li:hover {
     transition: 0.3s;
     transform: scale(1.1);
-    opacity: 1.1;
+    opacity: 0.7;
+}
+
+.margin {
+    margin: 20px 25px;
 }
 
 .experiencia {
-    margin: 20px 25px;
     display: flex;
     gap: 15px;
     justify-content: baseline;
@@ -159,7 +166,7 @@ ul {
 }
 
 .project p {
-    height: 80px;
+    height: 100px;
     display: flex;
     align-items: center;
 }
