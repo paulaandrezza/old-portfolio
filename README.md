@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto tem como objetivo a criação do meu primeiro portfólio que mostra algumas informações sobre mim, tecnologias que conheço e alguns repositórios do github. Foi utilizado a api do github para trazer as inforamções sobre os respositórios. Você pode vê-lo [clicando aqui](https://paulaandrezza.github.io/Portfolio/).
+Esse projeto tem como objetivo a criação do meu primeiro portfólio que mostra algumas informações sobre mim, tecnologias que conheço e alguns repositórios do github. Foi utilizado a api do github para trazer as inforamções sobre os respositórios. Você pode vê-lo [clicando aqui](https://paulaandrezza.github.io/old-portfolio/).
 
 ## 🔖 Layout
 
