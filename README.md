@@ -13,7 +13,7 @@ Meu primeiro portfólio
 <br>
 
 <p align="center">
-  <img alt="nlw-10-copa" src="./assets/img/projeto.jpeg" width="100%">
+  <img alt="nlw-10-copa" src="./assets/img/desktop.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
